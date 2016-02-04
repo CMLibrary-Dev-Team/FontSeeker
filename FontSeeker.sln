@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FontSeeker", "FontSeeker\Fo
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FontSeekerFront", "FontSeekerFront\FontSeekerFront.vbproj", "{76FF1ACD-1BE0-49AA-9847-CB875FA88730}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FontSeeker.UnitTest", "FontSeeker.UnitTest\FontSeeker.UnitTest.vbproj", "{3A486F27-4500-41B0-9446-3276619D5F78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76FF1ACD-1BE0-49AA-9847-CB875FA88730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76FF1ACD-1BE0-49AA-9847-CB875FA88730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76FF1ACD-1BE0-49AA-9847-CB875FA88730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A486F27-4500-41B0-9446-3276619D5F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A486F27-4500-41B0-9446-3276619D5F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A486F27-4500-41B0-9446-3276619D5F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A486F27-4500-41B0-9446-3276619D5F78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
